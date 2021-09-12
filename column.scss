@@ -1,0 +1,18 @@
+.container{
+    width: auto;
+    height: auto;
+    background-color: darkslategray;
+    padding: 2em;
+    h1{
+        color: #fff;
+        text-shadow: 12px 5px 20px yellow ;
+        text-align: center;
+    }
+}
+p{margin: 0;}
+p{
+    columns:3 250px;
+    column-gap: 2rem;
+    column-rule:  deeppink dashed;
+    
+}
